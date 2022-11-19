@@ -1,7 +1,6 @@
 ### Hi there, i'm Rafael Caria
 
 - 👨🏻‍💻 I'm student of Web Hacking
-- 🐘+🐍 I’m currently learning PHP and Pyhon
 
 <div>
   <a href="https://github.com/rafaelcaria">
